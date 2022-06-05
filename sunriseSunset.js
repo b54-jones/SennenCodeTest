@@ -13,7 +13,7 @@ class Point {
   }
 }
 
-// Could not get this to work so have mocked the output to demonstrate rest of code.
+// I could not get this to work so have mocked the output to demonstrate rest of code.
 // With working api this function will take latitude and longitude as parameters and interpolate into the API URL
 function getSunriseAndSunset() {
   // const apiURL = `https://api.sunrise-sunset.org/json?lat=${lat}&lng=${long}`;
